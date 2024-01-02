@@ -6,3 +6,4 @@
 * This app need root and termux
 * It is mandatory to include the full website address including http/https
 * Only works from api 29 or superior
+* Please before use this app activate in termux properties external apps permission
